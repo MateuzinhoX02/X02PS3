@@ -1,0 +1,17 @@
+var github = "https://github.com/MateuzinhoX02/PS3hen-installer/";
+function raps()
+{
+	window.location.href = github + 'utils/pkgs/raps.pkg';
+}
+
+function pkgi()
+{
+window.location.href = github + 'utils/pkgs/pkgi.pkg';
+}
+
+function thanos()
+{
+}
+function fixthanos()
+{
+}
